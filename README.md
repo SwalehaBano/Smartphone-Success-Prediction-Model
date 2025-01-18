@@ -1,1 +1,0 @@
-# Smartphone-Success-Prediction-Model
